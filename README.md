@@ -4,7 +4,7 @@
 
 Try the deployed app here:
 
-[Open the Tweet Sentiment Analysis app](https://tweet-sentiment-analysis-using-nlpgit-wmatjmdzndds6undgnvfg9.streamlit.app/)
+[Open the Tweet Sentiment Analysis app]()
 
 ## Project Overview
 
